@@ -122,16 +122,6 @@ motto: "Build. Break. Secure. Repeat."
 
 ---
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gagaltotal&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <p align="left">
